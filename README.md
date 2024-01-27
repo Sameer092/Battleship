@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-## Tik-Tac-Toe | Introduction
+## Tic-Tac-Toe | Introduction
 
 Tic Tac Toe, a classic two-player game, is implemented in C++. 
 Players take turns marking a 3x3 grid with 'X' or 'O' to achieve
@@ -9,21 +9,58 @@ if the grid is filled without a winner.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Tik-Tac-Toe | Tools & Technology
+## Tic-Tac-Toe | Tools & Technology
 
 * <img src="https://img.shields.io/badge/C++-1572B6?style=for-the-badge&logo=c++&logoColor=white" />
 * <img src="https://img.shields.io/badge/Visual_Studio-563D7C?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Tik-Tac-Toe | Prerequisites
+## Tic-Tac-Toe | Prerequisites
 
 These are the softwares you need to install before getting started.
 - Visual Studio
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Tik-Tac-Toe | Contributing
+## Tic-Tac-Toe | Setup Instructions
+  
+1. Clone This Repository
+   ```sh
+   https://github.com/Sameer092/Tic-Tac-Toe.git
+
+2. Open the Project in Visual Studio
+
+   Launch Visual Studio.
+   Select File > Open > Project/Solution.
+   Navigate to the cloned repository directory and open the .sln file (Visual Studio solution file).
+
+3. Build the Project
+
+   In Visual Studio, press Ctrl + Shift + B or select Build > Build Solution to compile the C++ code.
+
+4. Set the Startup Project
+
+   Right-click on the project in the Solution Explorer.
+   Choose Set as Startup Project.
+
+5. Run the Game
+
+   Press F5 or select Debug > Start Debugging to run the Tic Tac Toe game.
+
+6. Play the Game
+
+   Follow the on-screen instructions to play the game. Input your moves based on the displayed grid.
+
+### Notes
+* Ensure you have Visual Studio installed with support for C++ development.
+* If there are any missing dependencies, follow the prompts from Visual Studio to install them.
+* Make sure to set the correct startup project before running the game.
+* If you encounter any issues, check the issues section or feel free to open a new issue for assistance.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Tic-Tac-Toe | Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -38,7 +75,7 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Tik-Tac-Toe | SnapShots
+## Tic-Tac-Toe | SnapShots
 
 ## `Game-Module`
 
