@@ -23,36 +23,33 @@ These are the softwares you need to install before getting started.
   
 1. Clone This Repository
    ```sh
-   https://github.com/Sameer092/Tic-Tac-Toe.git
+   https://github.com/Sameer092/Battleship.git
 
-2. Open the Project in Visual Studio
+2. Open the Project in Visual Studio:
 
-   Launch Visual Studio.
-   Select File > Open > Project/Solution.
-   Navigate to the cloned repository directory and open the .sln file (Visual Studio solution file).
+  Launch Visual Studio.
+  Select File > Open > Project/Solution.
+  Navigate to the cloned repository directory and open the solution file (.sln).
 
-3. Build the Project
+3. Restore NuGet Packages:
 
-   In Visual Studio, press Ctrl + Shift + B or select Build > Build Solution to compile the C++ code.
+  Once the project is open, right-click on the solution in the Solution Explorer.
+  Choose Restore NuGet Packages to ensure that all required dependencies are downloaded.
 
-4. Set the Startup Project
+4. Build and Run the Project:
 
-   Right-click on the project in the Solution Explorer.
-   Choose Set as Startup Project.
+  Press Ctrl + Shift + B to build the project.
+  Press F5 or select Debug > Start Debugging to run the Battleship game.
 
-5. Run the Game
+6. Play the Game:
 
-   Press F5 or select Debug > Start Debugging to run the Tic Tac Toe game.
+   The game window should appear. Follow the on-screen instructions to place your ships and engage in naval warfare.
 
-6. Play the Game
+### Notes:
 
-   Follow the on-screen instructions to play the game. Input your moves based on the displayed grid.
-
-### Notes
-* Ensure you have Visual Studio installed with support for C++ development.
-* If there are any missing dependencies, follow the prompts from Visual Studio to install them.
+* Ensure you have Visual Studio installed with support for C# development.
+* NuGet packages should be automatically restored, but if not, use the provided instructions.
 * Make sure to set the correct startup project before running the game.
-* If you encounter any issues, check the issues section or feel free to open a new issue for assistance.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
