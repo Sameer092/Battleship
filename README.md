@@ -1,29 +1,25 @@
 <a name="readme-top"></a>
-## Tic-Tac-Toe | Introduction
+## Battleship | Description
 
-Tic Tac Toe, a classic two-player game, is implemented in C++. 
-Players take turns marking a 3x3 grid with 'X' or 'O' to achieve
-a winning horizontal, vertical, or diagonal line. The first 
-player to complete a line wins, and the game ends in a draw 
-if the grid is filled without a winner.
+Battleship is a classic naval warfare game implemented in C#. Players can enjoy three different difficulty modes: Easy, Medium, and Hard. In the Easy mode, each player strategically hides two ships on the grid, while the Medium and Hard modes feature three and four hidden ships, respectively. The game offers versatile gameplay with both Player vs Player and Computer vs Player modes. Engage in thrilling battles with a friend, strategically hiding and hunting each other's fleets, or test your strategic prowess against the computer as you attempt to sink its hidden ships in single-player mode.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Tic-Tac-Toe | Tools & Technology
+## Battleship | Tools & Technology
 
 * <img src="https://img.shields.io/badge/C++-1572B6?style=for-the-badge&logo=c++&logoColor=white" />
 * <img src="https://img.shields.io/badge/Visual_Studio-563D7C?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Tic-Tac-Toe | Prerequisites
+## Battleship | Prerequisites
 
 These are the softwares you need to install before getting started.
 - Visual Studio
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Tic-Tac-Toe | Setup Instructions
+## Battleship | Setup Instructions
   
 1. Clone This Repository
    ```sh
@@ -60,7 +56,7 @@ These are the softwares you need to install before getting started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Tic-Tac-Toe | Contributing
+## Battleship | Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -75,7 +71,7 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Tic-Tac-Toe | SnapShots
+## Battleship | Screenshots
 
 ## `Game-Module`
 
