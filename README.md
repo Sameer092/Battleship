@@ -27,23 +27,23 @@ These are the softwares you need to install before getting started.
 
 2. Open the Project in Visual Studio:
 
-  Launch Visual Studio.
-  Select File > Open > Project/Solution.
-  Navigate to the cloned repository directory and open the solution file (.sln).
+  * Launch Visual Studio.
+  * Select File > Open > Project/Solution.
+  * Navigate to the cloned repository directory and open the solution file (.sln).
 
 3. Restore NuGet Packages:
 
-  Once the project is open, right-click on the solution in the Solution Explorer.
-  Choose Restore NuGet Packages to ensure that all required dependencies are downloaded.
+  * Once the project is open, right-click on the solution in the Solution Explorer.
+  * Choose Restore NuGet Packages to ensure that all required dependencies are downloaded.
 
 4. Build and Run the Project:
 
-  Press Ctrl + Shift + B to build the project.
-  Press F5 or select Debug > Start Debugging to run the Battleship game.
+  * Press Ctrl + Shift + B to build the project.
+  * Press F5 or select Debug > Start Debugging to run the Battleship game.
 
 6. Play the Game:
 
-   The game window should appear. Follow the on-screen instructions to place your ships and engage in naval warfare.
+  * The game window should appear. Follow the on-screen instructions to place your ships and engage in naval warfare.
 
 ### Notes:
 
