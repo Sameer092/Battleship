@@ -7,7 +7,7 @@ Battleship is a classic naval warfare game implemented in C#. Players can enjoy 
 
 ## Battleship | Tools & Technology
 
-* <img src="https://img.shields.io/badge/C#-512bd4?style=for-the-badge&logo=C#" />
+* <img src="https://img.shields.io/badge/C#-512bd4?style=for-the-badge&logo=c#&logoColor=white" />
 * <img src="https://img.shields.io/badge/Visual_Studio-563D7C?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
