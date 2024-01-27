@@ -72,24 +72,53 @@ Don't forget to give the project a star! Thanks again!
 
 ## `Game-Module`
 
-### Starting Console
-![image](https://github.com/Sameer092/Tic-Tac-Toe/blob/master/Screenshorts/StartingConsole.png)
-### Choose Options
-![image](https://github.com/Sameer092/Tic-Tac-Toe/blob/master/Screenshorts/ChooseOptions.png)
-### Machine vs Player Toss
-![image](https://github.com/Sameer092/Tic-Tac-Toe/blob/master/Screenshorts/PlayerVsMachine_Toss.png)
-### Playing Game
-![image](https://github.com/Sameer092/Tic-Tac-Toe/blob/master/Screenshorts/PlayingGame.png)
-### Result Store Text File
-![image](https://github.com/Sameer092/Tic-Tac-Toe/blob/master/Screenshorts/resultStoreTextFile.png)
-### Screenshort of result Machine vs Player
-![image](https://github.com/Sameer092/Tic-Tac-Toe/blob/master/Screenshorts/WinLoseSc.png)
-### Toss For Player vs Player
-![image](https://github.com/Sameer092/Tic-Tac-Toe/blob/master/Screenshorts/NameOrTossScForPlayerVsPlayer.png)
-### Playing Game
-![image](https://github.com/Sameer092/Tic-Tac-Toe/blob/master/Screenshorts/PlayingGame2.png)
-### Screentshort of result Player vs Player
-![image](https://github.com/Sameer092/Tic-Tac-Toe/blob/master/Screenshorts/WinLoseScForPlayerVsPlayer.png)
+### Startup Page
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Startup%20Page.png)
+### Rules
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Rules.png)
+### Credits
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Credits.png)
+### Game Modes
+![image](https://github.com/Sameer092/Battleship/blob/master/images/GameModes.png)
+### Easy Mode
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Easy%20Mode.png)
+### Medium Mode
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Medium%20Mode.png)
+### Hard Mode
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Hard%20Mode.png)
+### Shapes of Ships
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Ship%20Shapes.png)
+### Remaining Ships
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Total%20Ships.png)
+### Player Locate Ships
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Hide%20the%20Ships.png)
+### Computer Guess Player Ships
+![image](https://github.com/Sameer092/Battleship/blob/master/images/PC%20find%20my%20ships.png)
+### Player Guess Computer Ships
+![image](https://github.com/Sameer092/Battleship/blob/master/images/I%20finding%20the%20PC%20Ships.png)
+### Result
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Result.png)
+### Player1 Locate Ships
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Player%201%20locate%20ships.png)
+### Player2 Locate Ships
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Player%202%20locate%20ships.png)
+### Player1 Guess Player2 Ships
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Player%201%20finding%20ships.png)
+### Player2 Guess Player1 Ships
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Player%202%20finding%20ships.png)
+### Result
+![image](https://github.com/Sameer092/Battleship/blob/master/images/Result2.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
